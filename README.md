@@ -1,2 +1,2 @@
-# THE SIMPLE GENERATOR PASSWORD
-My First project 
+# THE SIMPLE PASSWORD GENERATOR
+ My First project 
