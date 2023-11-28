@@ -1,2 +1,2 @@
-# Loan-approval-prediction-using-machine-learning-
+# THE SIMPLE GENERATOR PASSWORD
 My First project 
